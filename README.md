@@ -8,3 +8,7 @@ Files included in this repository include:
 - MakersBnB - Requirements Notes.pdf
 - Test Tree Table - Functional Tests.pdf
 - Test Tree Table - Non Functional Tests.pdf
+- Exploratory_Test_Plan.pdf
+- Risk_Assessment.pdf
+- diagram.svg
+- Assumptions_and_Questions.pdf
