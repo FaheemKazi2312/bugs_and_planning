@@ -3,7 +3,7 @@ Paired work for challenge analysis - part 2
 
 This was a paired work challenege that involved working with another cohort to plan and prepare various test cases and exploratory testing.
 
-Files included in this repository include:
+Files included in this repository:
 - README.md
 - MakersBnB - Requirements Notes.pdf
 - Test Tree Table - Functional Tests.pdf
